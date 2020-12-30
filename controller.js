@@ -1,7 +1,5 @@
 const Services = require('./services');
 
-
-
 module.exports = {
 
   async search(req, res) {
