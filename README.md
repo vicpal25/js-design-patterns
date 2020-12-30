@@ -1,2 +1,6 @@
 # js-design-patterns
-JS patterns Udemy repo
+
+POC Project to leverage best practices 
+
+- ElasticSearch Client
+- Redis Client
