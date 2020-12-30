@@ -1,0 +1,19 @@
+{
+  "name": "js-design-patterns",
+  "version": "1.0.0",
+  "description": "JS patterns Udemy repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicpal25/js-design-patterns.git"
+  },
+  "author": "Victor Palma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicpal25/js-design-patterns/issues"
+  },
+  "homepage": "https://github.com/vicpal25/js-design-patterns#readme"
+}
